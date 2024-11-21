@@ -1,0 +1,7 @@
+public FirstApex
+{
+	public staic void display()
+	{
+		system.debug("Welocme To Apex Class");
+	}
+}
